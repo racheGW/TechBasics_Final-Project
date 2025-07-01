@@ -1,4 +1,4 @@
-#Documentation for Final Project "Library Quest"
+Documentation for Final Project "Library Quest"
 
 This is the extra/detailed documentation file that needs to be submitted along with the final project. It can include:
 Initial sketches(/plan) and research - (This can be recycled from your intermediate presentation)
