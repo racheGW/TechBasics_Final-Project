@@ -1,4 +1,4 @@
-# Documentation for Final Project "Library Quest"
+# Documentation for Final Project "Pastel Pong"
 
 # Original Idea Library Quest- A book recommendation adventure game
 
@@ -14,15 +14,25 @@ Original Idea and Limitations:
 I originally wanted to create a recommendation system for books, where the recoomendation would be based on a series of questions the player would answer. However, as I started thinking about the system and how I wanted to design it I realized that I prefered the idea of creating an actual game. 
 
 Final Idea: 
-I researched basic game structures I could make with pygame and found a video that explained how to use graphical user interface for a plattformer game. Therfore I decided to code a platformer game similar to classical Mario games. However I still wanted to include some pieces of my original idea. That is why I let my platformer game be inspired by a library. 
+I researched basic game structures I could make with pygame and found a video that explained how to use graphical user interface for a plattformer game. Therfore I decided to code a platformer game similar to classical games. However I still wanted to include some pieces of my original idea. 
 
 Refrences: 
-The video I used to help my coding was very usefull when trying to figure out what errors i had made. It also provided helpful resources for my game design. 
+The video I used to help my coding was very usefull when trying to figure out what errors i had made. It also provided helpful resources for my game design. The step by step instructions gave helpful tips for my project. It also provided me with graphics I could use. 
+Helpful Videos: https://www.youtube.com/watch?v=8OMghdHP-zs&t=26736s 
+
 
 Development process and challenges: 
-Initially I had some trouble with getting into the rythym of coding something of this size. I found it hard to keep an overview of what tasks I still had to do to make the code work. It was frustrating finding small errors that, where usually just an oversight, like a mispelled word, etc. 
+Initially I had some trouble with getting into the rythym of coding something of this size. I found it hard to keep an overview of what tasks I still had to do to make the code work. It was frustrating finding small errors that, where usually just an oversight, like a mispelled word, etc. AT first I had all these ideas of what i wanted to add graphicaly but in the end i relized i was too focused on these design elements. Instead I settled on a project that would challenge me, although still being managable. 
+When developing the game I had some challnges, for example when it came to how the yplayer moved their paddle I at first struggled with how the paddle would stay on screen. The video offered an helpful explanation on this. 
+I also had to research and test out how to get the ball to move at random, and not just always in one direction or in the worst case not at all. It was also interesting to test how to keep the ball on screen.
+
+Another thing I focused on was collision and how to code that.It was alson intersting working with inheritance and how to code what properly.Additionaly I wanted to have some way to save the games progress, through some trial and error I figured out how to do that using a text file. To do this I used JSON. I also added a delay to when the ball starts again to improve gameplay.
+
+Requierments: 
+
 
 Future improvements and known limitations
+For the future I would like to be more creative with my graphics. I found a lot of interesting designs but realized my skill level did not yet match what I would need to do to import and edit those graphics for my game. While researching for my project I also found other ideas I found really interesting, for example a GitHub also had a Stardew Valley inspired Game using pygame. For the future I would try and figure out how that could work.   
 
 
 Any other things that makes sense to put here for your project
